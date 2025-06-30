@@ -1,0 +1,16 @@
+{
+  "name": "sistema-de-usuarios-e-tarefas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "uuid": "^11.1.0"
+  }
+}
